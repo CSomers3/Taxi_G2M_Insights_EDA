@@ -1,5 +1,9 @@
 # G2M_Insights_EDA
-## Breakdown
+#### The Client
+
+X is a private firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision.
+
+#### Breakdown
 1. **Basic Analysis** of each dataset involving searching for null & duplicate values.
 2. **Data Transformation** to create a main dataset, this can be performed using the
 transaction IDs and customer IDs as well as the City location. Date of travel converted
